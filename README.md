@@ -1,5 +1,5 @@
 # InceptionV3
-Video categorization with customized versions of InceptionV3
+Video categorization using the InceptionV3 library
 
 ## Index
 1. [What is InceptionV3](#what-si-inceptionv3)
